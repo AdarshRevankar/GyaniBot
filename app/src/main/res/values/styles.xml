@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="font_regular">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="font_light">
+        <item name="android:fontFamily">@font/roboto_light</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="font_medium">
+        <item name="android:fontFamily">@font/roboto_medium</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="font_bold">
+        <item name="android:fontFamily">@font/roboto_bold</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <!-- styles for text -->
+    <style name="TitleText" parent="font_bold">
+        <item name="android:textSize">@dimen/text_xxxlarge</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="TopicTitleText" parent="font_bold">
+        <item name="android:textSize">@dimen/text_xxlarge</item>
+    </style>
+
+    <style name="TitleDescription" parent="font_regular">
+        <item name="android:textSize">@dimen/text_xlarge</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="TopicTitleDescription" parent="font_regular">
+        <item name="android:textSize">@dimen/text_xlarge</item>
+    </style>
+
+
+
+</resources>

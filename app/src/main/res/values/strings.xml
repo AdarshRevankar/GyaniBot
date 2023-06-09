@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GyaniBot</string>
+    <string name="speak_button">Speak Button</string>
+    <string name="play_button">Play</string>
+</resources>
